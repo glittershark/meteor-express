@@ -1,0 +1,8 @@
+{
+  "name": "meteor-express",
+  "description": "The Express web framework packaged for meteor",
+  "homepage": "https://github.com/glittershark/meteor-express",
+  "author": "Griffin Smith <wildgriffin45@gmail.com>",
+  "version": "0.1.0",
+  "git": "https://github.com/glittershark/meteor-express.git"
+}
